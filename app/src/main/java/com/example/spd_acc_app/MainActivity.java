@@ -603,7 +603,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void checkLimits(double speed, double acceleration) {
         if (mIsWithinGeofence) {
             if (speed > 40) {
-                if (acceleration > 1.96) {
+                if (acceleration > 1.96 || acceleration < -1.96) {
                     mTxtSpdStatus.setText(getString(R.string.SPD_ACC_LIMIT));
                     mTxtSpeed.setTextColor(getResources().getColor(R.color.pastel_red));
                     mTxtAcceleration.setTextColor(getResources().getColor(R.color.pastel_red));
@@ -613,7 +613,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     mTxtAcceleration.setTextColor(getResources().getColor(android.R.color.secondary_text_light));
                 }
             } else {
-                if (acceleration > 1.96) {
+                if (acceleration > 1.96 || acceleration < -1.96) {
                     mTxtSpdStatus.setText(getString(R.string.ACC_LIMIT));
                     mTxtAcceleration.setTextColor(getResources().getColor(R.color.pastel_red));
                 } else {
@@ -624,7 +624,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         } else {
             if (speed > 60) {
-                if (acceleration > 1.47) {
+                if (acceleration > 1.47 || acceleration < -1.47) {
                     mTxtSpdStatus.setText(getString(R.string.SPD_ACC_LIMIT));
                     mTxtSpeed.setTextColor(getResources().getColor(R.color.pastel_red));
                     mTxtAcceleration.setTextColor(getResources().getColor(R.color.pastel_red));
@@ -634,7 +634,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     mTxtAcceleration.setTextColor(getResources().getColor(android.R.color.secondary_text_light));
                 }
             } else {
-                if (acceleration > 1.47) {
+                if (acceleration > 1.47 || acceleration < -1.47) {
                     mTxtSpdStatus.setText(getString(R.string.ACC_LIMIT));
                     mTxtAcceleration.setTextColor(getResources().getColor(R.color.pastel_red));
                 } else {
