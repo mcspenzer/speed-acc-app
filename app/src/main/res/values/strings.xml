@@ -15,80 +15,80 @@
 
     <!-- GEOFENCE COORDINATES - SOUTHBOUND -->
     <string name="SB_SAN_SIMON_ID">SB_SAN_SIMON</string>
-    <string name="SB_SAN_SIMON_LON">121.087188</string>
-    <string name="SB_SAN_SIMON_LAT">14.691919</string>
-    <string name="SB_SAN_SIMON_RAD">150f</string>
+    <string name="SB_SAN_SIMON_LON">121.087172</string>
+    <string name="SB_SAN_SIMON_LAT">14.690555</string>
+    <string name="SB_SAN_SIMON_RAD">98f</string>
     <string name="SB_SAN_SIMON_TRN_LAT">14.690555</string>
     <string name="SB_SAN_SIMON_TRN_LON">121.087172</string>
 
     <string name="SB_DON_ANTONIO_ID">SB_DON_ANTONIO</string>
-    <string name="SB_DON_ANTONIO_LON">121.083586</string>
-    <string name="SB_DON_ANTONIO_LAT">14.679072</string>
-    <string name="SB_DON_ANTONIO_RAD">150f</string>
+    <string name="SB_DON_ANTONIO_LON">121.083036</string>
+    <string name="SB_DON_ANTONIO_LAT">14.677789</string>
+    <string name="SB_DON_ANTONIO_RAD">98f</string>
     <string name="SB_DON_ANTONIO_TRN_LAT">14.677789</string>
     <string name="SB_DON_ANTONIO_TRN_LON">121.083036</string>
 
     <string name="SB_LUZON_AVE_ID">SB_LUZON_AVE</string>
-    <string name="SB_LUZON_AVE_LON">121.07167</string>
-    <string name="SB_LUZON_AVE_LAT">14.666219</string>
-    <string name="SB_LUZON_AVE_RAD">150f</string>
+    <string name="SB_LUZON_AVE_LON">121.070501</string>
+    <string name="SB_LUZON_AVE_LAT">14.665477</string>
+    <string name="SB_LUZON_AVE_RAD">98f</string>
     <string name="SB_LUZON_AVE_TRN_LAT">14.665477</string>
     <string name="SB_LUZON_AVE_TRN_LON">121.070501</string>
 
     <string name="SB_TANDANG_SORA_ID">SB_TANDANG_SORA</string>
-    <string name="SB_TANDANG_SORA_LON">121.068922</string>
-    <string name="SB_TANDANG_SORA_LAT">14.664431</string>
-    <string name="SB_TANDANG_SORA_RAD">100f</string>
+    <string name="SB_TANDANG_SORA_LON">121.06815</string>
+    <string name="SB_TANDANG_SORA_LAT">14.663925</string>
+    <string name="SB_TANDANG_SORA_RAD">98f</string>
     <string name="SB_TANDANG_SORA_TRN_LAT">14.663925</string>
     <string name="SB_TANDANG_SORA_TRN_LON">121.06815</string>
 
     <string name="SB_CENTRAL_AVE_ID">SB_CENTRAL_AVE</string>
-    <string name="SB_CENTRAL_AVE_LON">121.065711</string>
-    <string name="SB_CENTRAL_AVE_LAT">14.662267</string>
-    <string name="SB_CENTRAL_AVE_RAD">100f</string>
+    <string name="SB_CENTRAL_AVE_LON">121.064935</string>
+    <string name="SB_CENTRAL_AVE_LAT">14.66175</string>
+    <string name="SB_CENTRAL_AVE_RAD">98f</string>
     <string name="SB_CENTRAL_AVE_TRN_LAT">14.66175</string>
     <string name="SB_CENTRAL_AVE_TRN_LON">121.064935</string>
 
     <!-- GEOFENCE COORDINATES - NORTHBOUND -->
     <string name="NB_UNIVERSITY_AVE_ID">NB_UNIVERSITY_AVE</string>
-    <string name="NB_UNIVERSITY_AVE_LON">121.052979</string>
-    <string name="NB_UNIVERSITY_AVE_LAT">14.653526</string>
-    <string name="NB_UNIVERSITY_AVE_RAD">100f</string>
+    <string name="NB_UNIVERSITY_AVE_LON">121.053776</string>
+    <string name="NB_UNIVERSITY_AVE_LAT">14.654004</string>
+    <string name="NB_UNIVERSITY_AVE_RAD">98f</string>
     <string name="NB_UNIVERSITY_AVE_TRN_LAT">14.654004</string>
     <string name="NB_UNIVERSITY_AVE_TRN_LON">121.053776</string>
 
     <string name="NB_TANDANG_SORA_ID">NB_TANDANG_SORA</string>
-    <string name="NB_TANDANG_SORA_LON">121.065711</string>
-    <string name="NB_TANDANG_SORA_LAT">14.662267</string>
-    <string name="NB_TANDANG_SORA_RAD">150f</string>
+    <string name="NB_TANDANG_SORA_LON">121.068848</string>
+    <string name="NB_TANDANG_SORA_LAT">14.664013</string>
+    <string name="NB_TANDANG_SORA_RAD">98f</string>
     <string name="NB_TANDANG_SORA_TRN_LAT">14.664013</string>
     <string name="NB_TANDANG_SORA_TRN_LON">121.068848</string>
 
     <string name="NB_ZUZUARREGUI_ST_ID">NB_ZUZUARREGUI_ST</string>
-    <string name="NB_ZUZUARREGUI_ST_LON">121.077211</string>
-    <string name="NB_ZUZUARREGUI_ST_LAT">14.669921</string>
-    <string name="NB_ZUZUARREGUI_ST_RAD">150f</string>
+    <string name="NB_ZUZUARREGUI_ST_LON">121.078194</string>
+    <string name="NB_ZUZUARREGUI_ST_LAT">14.670863</string>
+    <string name="NB_ZUZUARREGUI_ST_RAD">98f</string>
     <string name="NB_ZUZUARREGUI_ST_TRN_LAT">14.670863</string>
     <string name="NB_ZUZUARREGUI_ST_TRN_LON">121.078194</string>
 
     <string name="NB_AMSTERDAM_AVE_ID">NB_AMSTERDAM_AVE</string>
-    <string name="NB_AMSTERDAM_AVE_LON">121.082553</string>
-    <string name="NB_AMSTERDAM_AVE_LAT">14.676443</string>
-    <string name="NB_AMSTERDAM_AVE_RAD">150f</string>
+    <string name="NB_AMSTERDAM_AVE_LON">121.083218</string>
+    <string name="NB_AMSTERDAM_AVE_LAT">14.677699</string>
+    <string name="NB_AMSTERDAM_AVE_RAD">98f</string>
     <string name="NB_AMSTERDAM_AVE_TRN_LAT">14.677699</string>
     <string name="NB_AMSTERDAM_AVE_TRN_LON">121.083218</string>
 
     <string name="NB_BATASAN_ID">NB_BATASAN_RD</string>
-    <string name="NB_BATASAN_LON">121.086672</string>
-    <string name="NB_BATASAN_LAT">14.685545</string>
-    <string name="NB_BATASAN_RAD">150f</string>
+    <string name="NB_BATASAN_LON">121.087052</string>
+    <string name="NB_BATASAN_LAT">14.686835</string>
+    <string name="NB_BATASAN_RAD">98f</string>
     <string name="NB_BATASAN_TRN_LAT">14.686835</string>
     <string name="NB_BATASAN_TRN_LON">121.087052</string>
 
     <string name="NB_IBP_RD_ID">NB_IBP_RD</string>
-    <string name="NB_IBP_RD_LON">121.08744</string>
-    <string name="NB_IBP_RD_LAT">14.698254</string>
-    <string name="NB_IBP_RD_RAD">150f</string>
+    <string name="NB_IBP_RD_LON">121.087208</string>
+    <string name="NB_IBP_RD_LAT">14.699601</string>
+    <string name="NB_IBP_RD_RAD">98f</string>
     <string name="NB_IBP_RD_TRN_LAT">14.699601</string>
     <string name="NB_IBP_RD_TRN_LON">121.087208</string>
 
